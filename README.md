@@ -30,10 +30,10 @@ The present project realizes a shopping cart for an e-commerce and has the follo
 
 - :capital_abcd: src: It is the main folder of the application and will house 4 files:
 
-1. Cabecera.js: It is a component that has no child components, no states, no methods, but has props that are inherited from APP.
-2. Item.js: It is a component that has no child components, it has a number where the stock number defined by the parent is stored.
-3. Listado.js: It is a parent component of Item, it does not need to handle a state, it has no methods, it receives the method to raise the state of the app and pass it to its child Item.
-4. Data.json: Contains the information that is rendered on the page.
+1. **Cabecera.js:** It is a component that has no child components, no states, no methods, but has props that are inherited from APP.
+2. **Item.js:** It is a component that has no child components, it has a number where the stock number defined by the parent is stored.
+3. **Listado.js:** It is a parent component of Item, it does not need to handle a state, it has no methods, it receives the method to raise the state of the app and pass it to its child Item.
+4. **Data.json:** Contains the information that is rendered on the page.
 
 
 ***
